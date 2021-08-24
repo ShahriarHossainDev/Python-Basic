@@ -1,0 +1,74 @@
+Python Basic
+
+ 1. Syntax
+ 2. Comments 
+ 3. Variable
+ 4. Data Types
+ 5. Number
+ 6. Casting
+ 7. Strings
+ 8. Booleans
+ 9. Operators
+10. Lists
+11. Tuples
+12. Sets
+13. Dictionaries
+14. If...else
+15. Loop
+16. Functions
+17. Lambda
+18. Arrays
+19. Class / objects
+20. Inheritance
+21. Iterators
+22. Scope 
+23. Modules
+24. Dates / Time
+25. Math
+26. JSON
+27. RegEx
+28. PIP
+29. Try...Except
+30. Input
+31. String Formatting 
+
+
+Python Advanced
+
+32. File Handling
+33. Read Files
+34. Write/Create File
+35. Delete File
+36. Appendix
+
+
+Django
+
+ 1. App life cycle
+ 2. Admin Interface
+ 3. Creating Views
+ 4. URL Mapping 
+ 5. Template
+ 6. Models
+ 7. Page Redirections
+ 8. Sending Email
+ 9. Generic Views
+10. Form Processing
+11. File Processing
+12. File Handling
+13. File Uploading
+14. Apache Setup
+15. Cookies
+16. Sessions
+17. Caching
+18. Comments
+19. RSS (Really Simple Syndication)
+20. Settings
+21. Database
+22. Authentication
+23. Rest API
+
+Base Software Name:
+1. Postman
+2. Github
+3. VSCode
