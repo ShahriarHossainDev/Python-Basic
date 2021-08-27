@@ -8,6 +8,9 @@
 # boolean: boolean (bool)
 # binary : byte, bytearray, memoryview
 
+import random
+
+
 x_string = str("Hello World!")   # String
 x_int = 20                  # Int
 x_float = 3.1416            # Float
@@ -27,3 +30,14 @@ x_memoryview = memoryview(bytes(5))
 print (x_memoryview)
 print(5)
 print(x_complex)
+
+print(type(x_int))
+print(type(x_float))
+print(type(x_complex))
+
+y = int(x_float)
+
+print(random.randrange(1,100))
+print(random.randint(3,9))
+# KU5675-76A
+
