@@ -1,13 +1,13 @@
 # Assigning Values to Variable
 
-counters = 10
+counters = 23
 miles = 12.23
 name = "Shishir"
 
 # Multiple
-a = b = c = d = 100
+a = b = c = d = 123
 
-e = f = g = h = 4, 6, 'Ail', "Atik"
+e = f = g = h = i = 14, 10, 'Ail', 23, 'Hello'
 
 # Standard Data Types:
 # 1. Number
@@ -15,15 +15,16 @@ e = f = g = h = 4, 6, 'Ail', "Atik"
 # 3. List
 # 4. Tuples
 # 5. Dictionary
+# 6. Set
 
 # Cstings
 
-x = int(34)
+x = int(31)
 y = float(34)
 z = str(34)
 
 # Get the Type
-print(type(miles))
+print(type(name))
 
 # Single or Double Quotes
 
@@ -50,6 +51,7 @@ MyCar = "Tatess" # Pascal case
 # Unpack a collection
 fruits = ["apple", "banana", "cherry"]
 f1,f2,f3=fruits
+
 print(f1)
 print(f2)
 print(f3)
@@ -59,7 +61,6 @@ print("I love " + f1)
 print(f1 + " " +f2)
 
 # globel Keyword
-
 def myFun():
     global xs
     xs = "Ok to go"
