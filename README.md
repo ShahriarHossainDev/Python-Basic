@@ -17,9 +17,9 @@ The Glossary is also worth going through.
 1. Whetting Your Appetite
 2. Using the Python Interpreter
 2.1. Invoking the Interpreter
-2.1.1. Argument Passing
-2.1.2. Interactive Mode
-2.2. The Interpreter and Its Environment
+  2.1.1. Argument Passing
+    2.1.2. Interactive Mode
+      2.2. The Interpreter and Its Environment
 2.2.1. Source Code Encoding
 3. An Informal Introduction to Python
 3.1. Using Python as a Calculator
