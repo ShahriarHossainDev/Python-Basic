@@ -52,3 +52,21 @@ print(var7.strip())
 print(var7.replace("am", "was"))
 
 print(var7.split())
+
+# String Format
+age = 22
+var8 = "My name is shishir. I am {}"
+
+print(var8.format(age))
+
+quantity = 3
+itemno = 567
+price = 49.95
+myorder = "I want {} pieces of item {} for {} dollars."
+print(myorder.format(quantity, itemno, price))
+var9 = "My name is shishir. I am \(age)"
+print("life is \n hell")
+print("life is \"super\" hell")
+
+var9 = "life Is Hell"
+print(var9.capitalize())
